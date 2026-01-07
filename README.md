@@ -110,7 +110,7 @@ With User Management System's robust architecture, you can confidently build app
       <br>Hibernate
     </td>
     <td align="center" width="170">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lombok/lombok-plain.svg" width="48" height="48" alt="Lombok" />
+      <img src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" width="48" height="48" alt="Lombok" />
       <br>Lombok
     </td>
     <td align="center" width="170">
