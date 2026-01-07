@@ -88,55 +88,55 @@ With User Management System's robust architecture, you can confidently build app
 <table align="center">
   <tr>
     <td align="center" width="170">
-      <img src="Images/java.png" width="48" height="48" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
       <br>Java 17
     </td>
     <td align="center" width="170">
-      <img src="Images/springboot.png" width="45" height="45" alt="Spring Boot" />
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
       <br>Spring Boot
     </td>
     <td align="center" width="170">
-      <img src="Images/mysql.png" width="48" height="48" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="170">
-      <img src="Images/maven.png" width="48" height="48" alt="Maven" />
+      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
       <br>Maven
     </td>
   </tr>
   <tr>
     <td align="center" width="170">
-      <img src="Images/hibernate.png" width="48" height="48" alt="Hibernate" />
+      <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
       <br>Hibernate
     </td>
     <td align="center" width="170">
-      <img src="Images/lombok.png" width="48" height="48" alt="Lombok" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lombok/lombok-plain.svg" width="48" height="48" alt="Lombok" />
       <br>Lombok
     </td>
     <td align="center" width="170">
-      <img src="Images/jpa.png" width="48" height="48" alt="JPA" />
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="JPA" />
       <br>Spring Data JPA
     </td>
     <td align="center" width="170">
-      <img src="Images/postman.png" width="48" height="48" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
   </tr>
   <tr>
     <td align="center" width="170">
-      <img src="Images/intellij.png" width="48" height="48" alt="IntelliJ" />
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
       <br>IntelliJ IDEA
     </td>
     <td align="center" width="170">
-      <img src="Images/vscode.png" width="48" height="48" alt="VS Code" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
     <td align="center" width="170">
-      <img src="Images/github.png" width="48" height="48" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="170">
-      <img src="Images/git.png" width="48" height="48" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
   </tr>
